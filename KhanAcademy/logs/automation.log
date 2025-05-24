@@ -1,0 +1,654 @@
+2025-05-20 23:18:00 INFO  CourseAutomationTest:25 - Test started: testCourseFlow
+2025-05-20 23:18:00 INFO  LoginPage:31 - Cookie banner closed.
+2025-05-20 23:18:01 INFO  LoginPage:37 - Clicked login link.
+2025-05-20 23:18:04 INFO  LoginPage:40 - Entered username.
+2025-05-20 23:18:04 INFO  LoginPage:43 - Entered password.
+2025-05-20 23:18:04 INFO  LoginPage:46 - Clicked submit to log in.
+2025-05-20 23:18:15 INFO  CourseAutomationTest:33 - Login successful. Redirected to: https://www.khanacademy.org/profile/me/courses
+2025-05-20 23:20:34 INFO  CourseAutomationTest:25 - Test started: testCourseFlow
+2025-05-20 23:20:34 INFO  LoginPage:31 - Cookie banner closed.
+2025-05-20 23:20:35 INFO  LoginPage:37 - Clicked login link.
+2025-05-20 23:20:37 INFO  LoginPage:40 - Entered username.
+2025-05-20 23:20:38 INFO  LoginPage:43 - Entered password.
+2025-05-20 23:20:38 INFO  LoginPage:46 - Clicked submit to log in.
+2025-05-20 23:20:55 INFO  CourseAutomationTest:33 - Login successful. Redirected to: https://www.khanacademy.org/profile/me/courses
+2025-05-20 23:20:55 INFO  SearchPage:33 - Clicking on search button.
+2025-05-20 23:20:59 INFO  SearchPage:40 - Typing course name: art
+2025-05-20 23:21:05 INFO  SearchPage:48 - Selecting course result at index 3
+2025-05-20 23:21:11 INFO  SearchPage:57 - Attempting to play the course video.
+2025-05-20 23:21:25 INFO  CourseAutomationTest:48 - Course video interaction completed.
+2025-05-20 23:21:26 INFO  ProgressPage:27 - Opened user menu.
+2025-05-20 23:21:27 INFO  ProgressPage:30 - Clicked learner home link.
+2025-05-20 23:21:30 INFO  ProgressPage:33 - Navigated to Progress page.
+2025-05-20 23:21:33 INFO  CourseAutomationTest:55 - User navigated to Progress page.
+2025-05-20 23:21:34 INFO  LogoutPage:26 - Opened profile menu.
+2025-05-20 23:21:37 INFO  LogoutPage:29 - Clicked logout link.
+2025-05-20 23:21:39 INFO  CourseAutomationTest:61 - User logged out successfully.
+2025-05-20 23:21:39 INFO  CourseAutomationTest:63 - Test completed: testCourseFlow
+2025-05-21 10:38:53 INFO  CourseAutomationTest:25 - Test started: testCourseFlow
+2025-05-21 10:38:53 INFO  LoginPage:31 - Cookie banner closed.
+2025-05-21 10:38:54 INFO  LoginPage:37 - Clicked login link.
+2025-05-21 10:38:55 INFO  LoginPage:40 - Entered username.
+2025-05-21 10:38:55 INFO  LoginPage:43 - Entered password.
+2025-05-21 10:38:56 INFO  LoginPage:46 - Clicked submit to log in.
+2025-05-21 10:39:05 INFO  CourseAutomationTest:33 - Login successful. Redirected to: https://www.khanacademy.org/profile/me/courses
+2025-05-21 10:39:05 INFO  SearchPage:33 - Clicking on search button.
+2025-05-21 10:39:09 INFO  SearchPage:40 - Typing course name: art
+2025-05-21 10:39:15 INFO  SearchPage:48 - Selecting course result at index 3
+2025-05-21 10:39:22 INFO  SearchPage:57 - Attempting to play the course video.
+2025-05-21 10:39:34 INFO  CourseAutomationTest:48 - Course video interaction completed.
+2025-05-21 10:39:34 INFO  ProgressPage:27 - Opened user menu.
+2025-05-21 10:39:35 INFO  ProgressPage:30 - Clicked learner home link.
+2025-05-21 10:39:38 INFO  ProgressPage:33 - Navigated to Progress page.
+2025-05-21 10:39:41 INFO  CourseAutomationTest:55 - User navigated to Progress page.
+2025-05-21 10:39:41 INFO  LogoutPage:26 - Opened profile menu.
+2025-05-21 10:39:44 INFO  LogoutPage:29 - Clicked logout link.
+2025-05-21 10:39:46 INFO  CourseAutomationTest:61 - User logged out successfully.
+2025-05-21 10:39:46 INFO  CourseAutomationTest:63 - Test completed: testCourseFlow
+2025-05-21 10:41:04 INFO  CourseAutomationTest:25 - Test started: testCourseFlow
+2025-05-21 10:41:05 INFO  LoginPage:31 - Cookie banner closed.
+2025-05-21 10:41:06 INFO  LoginPage:37 - Clicked login link.
+2025-05-21 10:41:08 INFO  LoginPage:40 - Entered username.
+2025-05-21 10:41:08 INFO  LoginPage:43 - Entered password.
+2025-05-21 10:41:09 INFO  LoginPage:46 - Clicked submit to log in.
+2025-05-21 10:41:23 INFO  CourseAutomationTest:33 - Login successful. Redirected to: https://www.khanacademy.org/profile/me/courses
+2025-05-21 10:41:23 INFO  SearchPage:33 - Clicking on search button.
+2025-05-21 10:41:28 INFO  SearchPage:40 - Typing course name: art
+2025-05-21 10:41:33 INFO  SearchPage:48 - Selecting course result at index 3
+2025-05-21 10:41:41 INFO  SearchPage:57 - Attempting to play the course video.
+2025-05-21 10:41:59 INFO  CourseAutomationTest:48 - Course video interaction completed.
+2025-05-21 10:42:00 INFO  ProgressPage:27 - Opened user menu.
+2025-05-21 11:01:55 INFO  CourseAutomationTest:25 - Test started: testCourseFlow
+2025-05-21 11:01:56 INFO  LoginPage:31 - Cookie banner closed.
+2025-05-21 11:01:57 INFO  LoginPage:37 - Clicked login link.
+2025-05-21 11:02:00 INFO  LoginPage:40 - Entered username.
+2025-05-21 11:02:00 INFO  LoginPage:43 - Entered password.
+2025-05-21 11:02:01 INFO  LoginPage:46 - Clicked submit to log in.
+2025-05-21 11:02:18 INFO  CourseAutomationTest:33 - Login successful. Redirected to: https://www.khanacademy.org/profile/me/courses
+2025-05-21 11:02:18 INFO  SearchPage:33 - Clicking on search button.
+2025-05-21 11:02:25 INFO  SearchPage:40 - Typing course name: art
+2025-05-21 11:02:29 INFO  SearchPage:48 - Selecting course result at index 3
+2025-05-21 11:02:39 INFO  SearchPage:57 - Attempting to play the course video.
+2025-05-21 11:03:04 INFO  CourseAutomationTest:48 - Course video interaction completed.
+2025-05-21 11:03:05 INFO  ProgressPage:27 - Opened user menu.
+2025-05-21 11:03:07 INFO  ProgressPage:30 - Clicked learner home link.
+2025-05-21 11:03:14 INFO  ProgressPage:33 - Navigated to Progress page.
+2025-05-21 11:03:17 INFO  CourseAutomationTest:55 - User navigated to Progress page.
+2025-05-21 11:03:18 INFO  LogoutPage:26 - Opened profile menu.
+2025-05-21 11:03:22 INFO  LogoutPage:29 - Clicked logout link.
+2025-05-21 11:03:24 INFO  CourseAutomationTest:61 - User logged out successfully.
+2025-05-21 11:03:24 INFO  CourseAutomationTest:63 - Test completed: testCourseFlow
+2025-05-21 11:05:36 INFO  CourseAutomationTest:25 - Test started: testCourseFlow
+2025-05-21 11:05:37 INFO  LoginPage:31 - Cookie banner closed.
+2025-05-21 11:05:37 INFO  LoginPage:37 - Clicked login link.
+2025-05-21 11:05:38 INFO  LoginPage:40 - Entered username.
+2025-05-21 11:05:38 INFO  LoginPage:43 - Entered password.
+2025-05-21 11:05:39 INFO  LoginPage:46 - Clicked submit to log in.
+2025-05-21 11:06:07 INFO  CourseAutomationTest:33 - Login successful. Redirected to: https://www.khanacademy.org/profile/me/courses
+2025-05-21 11:06:07 INFO  SearchPage:33 - Clicking on search button.
+2025-05-21 11:06:12 INFO  SearchPage:40 - Typing course name: art
+2025-05-21 11:06:19 INFO  SearchPage:48 - Selecting course result at index 3
+2025-05-21 11:06:25 INFO  SearchPage:57 - Attempting to play the course video.
+2025-05-21 11:06:38 INFO  CourseAutomationTest:48 - Course video interaction completed.
+2025-05-21 11:06:39 INFO  ProgressPage:27 - Opened user menu.
+2025-05-21 11:06:40 INFO  ProgressPage:30 - Clicked learner home link.
+2025-05-21 11:06:44 INFO  ProgressPage:33 - Navigated to Progress page.
+2025-05-21 11:06:47 INFO  CourseAutomationTest:55 - User navigated to Progress page.
+2025-05-21 11:06:47 INFO  LogoutPage:26 - Opened profile menu.
+2025-05-21 11:06:49 INFO  LogoutPage:29 - Clicked logout link.
+2025-05-21 11:06:51 INFO  CourseAutomationTest:61 - User logged out successfully.
+2025-05-21 11:06:51 INFO  CourseAutomationTest:63 - Test completed: testCourseFlow
+2025-05-21 11:21:37 INFO  CourseAutomationTest:25 - Test started: testCourseFlow
+2025-05-21 11:21:37 INFO  LoginPage:31 - Cookie banner closed.
+2025-05-21 11:21:38 INFO  LoginPage:37 - Clicked login link.
+2025-05-21 11:21:40 INFO  LoginPage:40 - Entered username.
+2025-05-21 11:21:40 INFO  LoginPage:43 - Entered password.
+2025-05-21 11:21:40 INFO  LoginPage:46 - Clicked submit to log in.
+2025-05-21 11:21:41 INFO  CourseAutomationTest:25 - Test started: testCourseFlow
+2025-05-21 11:21:42 INFO  LoginPage:31 - Cookie banner closed.
+2025-05-21 11:21:43 INFO  LoginPage:37 - Clicked login link.
+2025-05-21 11:21:45 INFO  LoginPage:40 - Entered username.
+2025-05-21 11:21:45 INFO  LoginPage:43 - Entered password.
+2025-05-21 11:21:46 INFO  LoginPage:46 - Clicked submit to log in.
+2025-05-21 11:21:48 INFO  CourseAutomationTest:33 - Login successful. Redirected to: https://www.khanacademy.org/profile/me/courses
+2025-05-21 11:21:48 INFO  SearchPage:33 - Clicking on search button.
+2025-05-21 11:21:52 INFO  SearchPage:40 - Typing course name: art
+2025-05-21 11:21:56 INFO  CourseAutomationTest:33 - Login successful. Redirected to: https://www.khanacademy.org/profile/me/courses
+2025-05-21 11:21:56 INFO  SearchPage:33 - Clicking on search button.
+2025-05-21 11:21:58 INFO  SearchPage:48 - Selecting course result at index 3
+2025-05-21 11:22:01 INFO  SearchPage:40 - Typing course name: art
+2025-05-21 11:22:05 INFO  SearchPage:57 - Attempting to play the course video.
+2025-05-21 11:22:08 INFO  SearchPage:48 - Selecting course result at index 3
+2025-05-21 11:22:14 INFO  SearchPage:57 - Attempting to play the course video.
+2025-05-21 11:22:22 INFO  CourseAutomationTest:48 - Course video interaction completed.
+2025-05-21 11:22:22 INFO  ProgressPage:27 - Opened user menu.
+2025-05-21 11:22:23 INFO  ProgressPage:30 - Clicked learner home link.
+2025-05-21 11:22:25 INFO  ProgressPage:33 - Navigated to Progress page.
+2025-05-21 11:22:27 INFO  CourseAutomationTest:48 - Course video interaction completed.
+2025-05-21 11:22:27 INFO  ProgressPage:27 - Opened user menu.
+2025-05-21 11:22:28 INFO  ProgressPage:30 - Clicked learner home link.
+2025-05-21 11:22:28 INFO  CourseAutomationTest:55 - User navigated to Progress page.
+2025-05-21 11:22:29 INFO  LogoutPage:26 - Opened profile menu.
+2025-05-21 11:22:31 INFO  LogoutPage:29 - Clicked logout link.
+2025-05-21 11:22:32 INFO  ProgressPage:33 - Navigated to Progress page.
+2025-05-21 11:22:33 INFO  CourseAutomationTest:61 - User logged out successfully.
+2025-05-21 11:22:33 INFO  CourseAutomationTest:63 - Test completed: testCourseFlow
+2025-05-21 11:22:35 INFO  CourseAutomationTest:55 - User navigated to Progress page.
+2025-05-21 11:22:35 INFO  LogoutPage:26 - Opened profile menu.
+2025-05-21 11:22:37 INFO  LogoutPage:29 - Clicked logout link.
+2025-05-21 11:22:39 INFO  CourseAutomationTest:61 - User logged out successfully.
+2025-05-21 11:22:39 INFO  CourseAutomationTest:63 - Test completed: testCourseFlow
+2025-05-21 20:42:12 INFO  CourseAutomationTest:25 - Test started: testCourseFlow
+2025-05-21 20:42:13 INFO  LoginPage:31 - Cookie banner closed.
+2025-05-21 20:42:13 INFO  LoginPage:37 - Clicked login link.
+2025-05-21 20:42:14 INFO  LoginPage:40 - Entered username.
+2025-05-21 20:42:15 INFO  LoginPage:43 - Entered password.
+2025-05-21 20:42:15 INFO  LoginPage:46 - Clicked submit to log in.
+2025-05-21 20:42:23 INFO  CourseAutomationTest:33 - Login successful. Redirected to: https://www.khanacademy.org/profile/me/courses
+2025-05-21 20:42:23 INFO  SearchPage:33 - Clicking on search button.
+2025-05-21 20:42:27 INFO  SearchPage:40 - Typing course name: art
+2025-05-21 20:42:33 INFO  SearchPage:48 - Selecting course result at index 3
+2025-05-21 20:42:39 INFO  SearchPage:57 - Attempting to play the course video.
+2025-05-21 20:42:55 INFO  CourseAutomationTest:48 - Course video interaction completed.
+2025-05-21 20:42:55 INFO  ProgressPage:27 - Opened user menu.
+2025-05-21 20:42:56 INFO  ProgressPage:30 - Clicked learner home link.
+2025-05-21 20:42:58 INFO  ProgressPage:33 - Navigated to Progress page.
+2025-05-21 20:43:01 INFO  CourseAutomationTest:55 - User navigated to Progress page.
+2025-05-21 20:43:01 INFO  LogoutPage:26 - Opened profile menu.
+2025-05-21 20:43:03 INFO  LogoutPage:29 - Clicked logout link.
+2025-05-21 20:43:05 INFO  CourseAutomationTest:61 - User logged out successfully.
+2025-05-21 20:43:05 INFO  CourseAutomationTest:63 - Test completed: testCourseFlow
+2025-05-22 11:36:11 INFO  LessonCompletionTest:19 - Test started: testNegativeScenarios
+2025-05-22 11:36:11 INFO  LessonCompletionTest:19 - Test started: testNegativeScenarios
+2025-05-22 11:36:12 INFO  LoginPage:31 - Cookie banner closed.
+2025-05-22 11:36:12 INFO  LoginPage:31 - Cookie banner closed.
+2025-05-22 11:36:13 INFO  LoginPage:37 - Clicked login link.
+2025-05-22 11:36:13 INFO  LoginPage:37 - Clicked login link.
+2025-05-22 11:36:15 INFO  LoginPage:40 - Entered username.
+2025-05-22 11:36:15 INFO  LoginPage:40 - Entered username.
+2025-05-22 11:36:16 INFO  LoginPage:43 - Entered password.
+2025-05-22 11:36:16 INFO  LoginPage:43 - Entered password.
+2025-05-22 11:36:16 INFO  LoginPage:46 - Clicked submit to log in.
+2025-05-22 11:36:17 INFO  LoginPage:46 - Clicked submit to log in.
+2025-05-22 11:36:19 INFO  LessonCompletionTest:26 - Invalid login correctly did not redirect.
+2025-05-22 11:36:20 INFO  LessonCompletionTest:26 - Invalid login correctly did not redirect.
+2025-05-22 11:36:30 WARN  LoginPage:33 - Cookie popup not found or already dismissed.
+2025-05-22 11:36:30 WARN  LoginPage:33 - Cookie popup not found or already dismissed.
+2025-05-22 11:36:30 INFO  LoginPage:37 - Clicked login link.
+2025-05-22 11:36:31 INFO  LoginPage:40 - Entered username.
+2025-05-22 11:36:31 INFO  LoginPage:37 - Clicked login link.
+2025-05-22 11:36:31 INFO  LoginPage:43 - Entered password.
+2025-05-22 11:36:31 INFO  LoginPage:46 - Clicked submit to log in.
+2025-05-22 11:36:32 INFO  LoginPage:40 - Entered username.
+2025-05-22 11:36:32 INFO  LoginPage:43 - Entered password.
+2025-05-22 11:36:32 INFO  LoginPage:46 - Clicked submit to log in.
+2025-05-22 11:36:34 INFO  LessonCompletionTest:32 - Logged in for search negative scenario.
+2025-05-22 11:36:34 INFO  SearchPage:33 - Clicking on search button.
+2025-05-22 11:36:35 INFO  LessonCompletionTest:32 - Logged in for search negative scenario.
+2025-05-22 11:36:35 INFO  SearchPage:33 - Clicking on search button.
+2025-05-22 11:36:38 INFO  SearchPage:40 - Typing course name: @@@###!!!
+2025-05-22 11:36:39 INFO  SearchPage:40 - Typing course name: @@@###!!!
+2025-05-22 11:36:44 INFO  LessonCompletionTest:42 - Search negative input handled correctly.
+2025-05-22 11:36:45 INFO  LessonCompletionTest:42 - Search negative input handled correctly.
+2025-05-22 17:19:32 INFO  CourseAutomationTest:25 - Test started: testCourseFlow
+2025-05-22 17:19:32 INFO  LoginPage:31 - Cookie banner closed.
+2025-05-22 17:19:32 INFO  LoginPage:37 - Clicked login link.
+2025-05-22 17:19:33 INFO  LoginPage:40 - Entered username.
+2025-05-22 17:19:34 INFO  LoginPage:43 - Entered password.
+2025-05-22 17:19:34 INFO  LoginPage:46 - Clicked submit to log in.
+2025-05-22 17:19:57 INFO  CourseAutomationTest:33 - Login successful. Redirected to: https://www.khanacademy.org/profile/me/courses
+2025-05-22 17:19:57 INFO  SearchPage:33 - Clicking on search button.
+2025-05-22 17:20:01 INFO  SearchPage:40 - Typing course name: art
+2025-05-22 17:20:07 INFO  SearchPage:48 - Selecting course result at index 3
+2025-05-22 17:20:13 INFO  SearchPage:57 - Attempting to play the course video.
+2025-05-22 17:20:24 INFO  CourseAutomationTest:48 - Course video interaction completed.
+2025-05-22 17:20:25 INFO  ProgressPage:27 - Opened user menu.
+2025-05-22 17:20:25 INFO  ProgressPage:30 - Clicked learner home link.
+2025-05-22 17:20:27 INFO  ProgressPage:33 - Navigated to Progress page.
+2025-05-22 17:20:30 INFO  CourseAutomationTest:55 - User navigated to Progress page.
+2025-05-22 17:20:31 INFO  LogoutPage:26 - Opened profile menu.
+2025-05-22 17:20:32 INFO  LogoutPage:29 - Clicked logout link.
+2025-05-22 17:20:34 INFO  CourseAutomationTest:61 - User logged out successfully.
+2025-05-22 17:20:34 INFO  CourseAutomationTest:63 - Test completed: testCourseFlow
+2025-05-22 17:21:48 INFO  CourseAutomationTest:25 - Test started: testCourseFlow
+2025-05-22 17:27:57 INFO  CourseAutomationTest:25 - Test started: testCourseFlow
+2025-05-22 17:27:58 INFO  LoginPage:31 - Cookie banner closed.
+2025-05-22 17:27:59 INFO  LoginPage:37 - Clicked login link.
+2025-05-22 17:28:01 INFO  LoginPage:40 - Entered username.
+2025-05-22 17:28:02 INFO  LoginPage:43 - Entered password.
+2025-05-22 17:28:02 INFO  LoginPage:46 - Clicked submit to log in.
+2025-05-22 17:28:12 INFO  CourseAutomationTest:33 - Login successful. Redirected to: https://www.khanacademy.org/profile/me/courses
+2025-05-22 17:28:12 INFO  SearchPage:33 - Clicking on search button.
+2025-05-22 17:28:17 INFO  SearchPage:40 - Typing course name: art
+2025-05-22 17:28:23 INFO  SearchPage:48 - Selecting course result at index 3
+2025-05-22 17:28:29 INFO  SearchPage:57 - Attempting to play the course video.
+2025-05-22 17:28:42 INFO  CourseAutomationTest:48 - Course video interaction completed.
+2025-05-22 17:28:42 INFO  ProgressPage:27 - Opened user menu.
+2025-05-22 17:28:43 INFO  ProgressPage:30 - Clicked learner home link.
+2025-05-22 17:28:47 INFO  ProgressPage:33 - Navigated to Progress page.
+2025-05-22 17:28:50 INFO  CourseAutomationTest:55 - User navigated to Progress page.
+2025-05-22 17:28:50 INFO  LogoutPage:26 - Opened profile menu.
+2025-05-22 17:28:53 INFO  LogoutPage:29 - Clicked logout link.
+2025-05-22 17:28:55 INFO  CourseAutomationTest:61 - User logged out successfully.
+2025-05-22 17:28:55 INFO  CourseAutomationTest:63 - Test completed: testCourseFlow
+2025-05-23 12:36:51 INFO  KhanAcademy_Test:16 - Starting test: Search for a course on Khan Academy
+2025-05-23 12:36:51 INFO  KhanAcademy_Test:19 - Clicking on the search icon.
+2025-05-23 12:36:51 INFO  KhanAcademy_Test:16 - Starting test: Search for a course on Khan Academy
+2025-05-23 12:36:51 INFO  KhanAcademy_Test:19 - Clicking on the search icon.
+2025-05-23 12:36:52 INFO  KhanAcademy_Test:24 - Entering course name: Algebra
+2025-05-23 12:36:52 INFO  KhanAcademy_Test:24 - Entering course name: Algebra
+2025-05-23 12:36:59 INFO  KhanAcademy_Test:30 - Search for 'Algebra' returned results successfully.
+2025-05-23 12:37:00 INFO  KhanAcademy_Test:30 - Search for 'Algebra' returned results successfully.
+2025-05-23 12:39:53 INFO  KhanAcademy_Test:16 - Starting test: Search for a course on Khan Academy
+2025-05-23 12:39:53 INFO  KhanAcademy_Test:19 - Clicking on the search icon.
+2025-05-23 12:39:54 INFO  KhanAcademy_Test:16 - Starting test: Search for a course on Khan Academy
+2025-05-23 12:39:54 INFO  KhanAcademy_Test:19 - Clicking on the search icon.
+2025-05-23 12:39:54 INFO  KhanAcademy_Test:24 - Entering course name: Algebra
+2025-05-23 12:39:55 INFO  KhanAcademy_Test:24 - Entering course name: Algebra
+2025-05-23 12:40:01 INFO  KhanAcademy_Test:30 - Search for 'Algebra' returned results successfully.
+2025-05-23 12:40:01 INFO  KhanAcademy_Test:30 - Search for 'Algebra' returned results successfully.
+2025-05-23 12:43:02 INFO  KhanAcademy_Test:16 - Starting test: Search for a course on Khan Academy
+2025-05-23 12:43:02 INFO  KhanAcademy_Test:19 - Clicking on the search icon.
+2025-05-23 12:43:03 INFO  KhanAcademy_Test:16 - Starting test: Search for a course on Khan Academy
+2025-05-23 12:43:03 INFO  KhanAcademy_Test:19 - Clicking on the search icon.
+2025-05-23 12:43:03 INFO  KhanAcademy_Test:24 - Entering course name: Algebra
+2025-05-23 12:43:05 INFO  KhanAcademy_Test:24 - Entering course name: Algebra
+2025-05-23 12:43:10 INFO  KhanAcademy_Test:30 - Search for 'Algebra' returned results successfully.
+2025-05-23 12:43:11 INFO  KhanAcademy_Test:30 - Search for 'Algebra' returned results successfully.
+2025-05-23 12:44:20 INFO  KhanAcademy_Test:16 - Starting test: Search for a course on Khan Academy
+2025-05-23 12:44:20 INFO  KhanAcademy_Test:19 - Clicking on the search icon.
+2025-05-23 12:44:20 INFO  KhanAcademy_Test:16 - Starting test: Search for a course on Khan Academy
+2025-05-23 12:44:20 INFO  KhanAcademy_Test:19 - Clicking on the search icon.
+2025-05-23 12:44:21 INFO  KhanAcademy_Test:24 - Entering course name: Algebra
+2025-05-23 12:44:22 INFO  KhanAcademy_Test:24 - Entering course name: Algebra
+2025-05-23 12:44:27 INFO  KhanAcademy_Test:30 - Search for 'Algebra' returned results successfully.
+2025-05-23 12:44:28 INFO  KhanAcademy_Test:30 - Search for 'Algebra' returned results successfully.
+2025-05-23 12:45:38 INFO  KhanAcademy_Test:16 - Starting test: Search for a course on Khan Academy
+2025-05-23 12:45:38 INFO  KhanAcademy_Test:19 - Clicking on the search icon.
+2025-05-23 12:45:38 INFO  KhanAcademy_Test:16 - Starting test: Search for a course on Khan Academy
+2025-05-23 12:45:38 INFO  KhanAcademy_Test:19 - Clicking on the search icon.
+2025-05-23 12:45:39 INFO  KhanAcademy_Test:24 - Entering course name: Algebra
+2025-05-23 12:45:39 INFO  KhanAcademy_Test:24 - Entering course name: Algebra
+2025-05-23 12:45:46 INFO  KhanAcademy_Test:30 - Search for 'Algebra' returned results successfully.
+2025-05-23 12:45:46 INFO  KhanAcademy_Test:30 - Search for 'Algebra' returned results successfully.
+2025-05-23 18:17:02 INFO  BaseTest:33 - ✅ ExtentReport initialized at: test-output\ExtentReport.html
+2025-05-23 18:17:03 INFO  BaseTest:39 - Launching browser: chrome
+2025-05-23 18:17:05 INFO  BaseTest:81 - 📄 ExtentReport flushed and saved.
+2025-05-23 18:18:56 INFO  BaseTest:33 - ✅ ExtentReport initialized at: test-output\ExtentReport.html
+2025-05-23 18:18:56 INFO  BaseTest:39 - Launching browser: chrome
+2025-05-23 18:19:42 INFO  BaseTest:56 - ✅ Test started: testCourseFlow
+2025-05-23 18:19:42 INFO  CourseAutomationTest:26 - Test started: testCourseFlow
+2025-05-23 18:19:43 INFO  LoginPage:31 - Cookie banner closed.
+2025-05-23 18:19:43 INFO  LoginPage:37 - Clicked login link.
+2025-05-23 18:19:46 INFO  LoginPage:40 - Entered username.
+2025-05-23 18:19:46 INFO  LoginPage:43 - Entered password.
+2025-05-23 18:19:47 INFO  LoginPage:46 - Clicked submit to log in.
+2025-05-23 18:20:10 INFO  CourseAutomationTest:37 - Login successful. URL: https://www.khanacademy.org/profile/me/courses
+2025-05-23 18:20:10 INFO  SearchPage:33 - Clicking on search button.
+2025-05-23 18:20:15 INFO  SearchPage:40 - Typing course name: art
+2025-05-23 18:20:19 INFO  SearchPage:48 - Selecting course result at index 3
+2025-05-23 18:20:40 ERROR CourseAutomationTest:82 - Test case failed
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id='indexed-search-results']/div/ul/li[3]/div/a (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.31.0', revision: '4ae8fc9f8a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.113 (76fa3c17824..., userDataDir: C:\Users\ASHWIN~1.SED\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62555}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62555/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3dded7e3009f57c9d4a8b6498a12d262
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-support-4.31.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-support-4.31.0.jar:?]
+	at khanAcademyPage.SearchPage.selectSearchResult(SearchPage.java:50) ~[classes/:?]
+	at khanAcademyTest.CourseAutomationTest.testCourseFlow(CourseAutomationTest.java:51) ~[classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-05-23 18:28:41 INFO  BaseTest:33 - ✅ ExtentReport initialized at: test-output\ExtentReport.html
+2025-05-23 18:28:41 INFO  BaseTest:39 - Launching browser: chrome
+2025-05-23 18:29:00 INFO  BaseTest:56 - ✅ Test started: testCourseFlow
+2025-05-23 18:29:00 INFO  CourseAutomationTest:26 - Test started: testCourseFlow
+2025-05-23 18:29:01 INFO  LoginPage:31 - Cookie banner closed.
+2025-05-23 18:29:01 INFO  LoginPage:37 - Clicked login link.
+2025-05-23 18:29:02 INFO  LoginPage:40 - Entered username.
+2025-05-23 18:29:02 INFO  LoginPage:43 - Entered password.
+2025-05-23 18:29:03 INFO  LoginPage:46 - Clicked submit to log in.
+2025-05-23 18:29:13 INFO  CourseAutomationTest:37 - Login successful. URL: https://www.khanacademy.org/profile/me/courses
+2025-05-23 18:29:13 INFO  SearchPage:33 - Clicking on search button.
+2025-05-23 18:29:17 INFO  SearchPage:40 - Typing course name: art
+2025-05-23 18:29:23 INFO  SearchPage:48 - Selecting course result at index 3
+2025-05-23 18:29:29 INFO  SearchPage:57 - Attempting to play the course video.
+2025-05-23 18:29:50 ERROR CourseAutomationTest:82 - Test case failed
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //button[@aria-label='Play video'] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.31.0', revision: '4ae8fc9f8a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.113 (76fa3c17824..., userDataDir: C:\Users\ASHWIN~1.SED\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63736}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63736/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9cf20aec15fd85fd8a75738cb61e07c3
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-support-4.31.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-support-4.31.0.jar:?]
+	at khanAcademyPage.SearchPage.playCourseVideo(SearchPage.java:58) ~[classes/:?]
+	at khanAcademyTest.CourseAutomationTest.testCourseFlow(CourseAutomationTest.java:55) ~[classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-05-23 18:29:51 ERROR BaseTest:65 - Test failed: testCourseFlow
+java.lang.AssertionError: Test failed due to exception: Expected condition failed: waiting for visibility of element located by By.xpath: //button[@aria-label='Play video'] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.31.0', revision: '4ae8fc9f8a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.113 (76fa3c17824..., userDataDir: C:\Users\ASHWIN~1.SED\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63736}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63736/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9cf20aec15fd85fd8a75738cb61e07c3
+	at org.testng.Assert.fail(Assert.java:111) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at khanAcademyTest.CourseAutomationTest.testCourseFlow(CourseAutomationTest.java:83) ~[classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-05-23 18:30:02 INFO  BaseTest:74 - 🔻 Browser closed
+2025-05-23 18:30:03 INFO  BaseTest:81 - 📄 ExtentReport flushed and saved.
+2025-05-23 18:37:10 INFO  BaseTest:33 - ✅ ExtentReport initialized at: test-output\ExtentReport.html
+2025-05-23 18:37:10 INFO  BaseTest:39 - Launching browser: chrome
+2025-05-23 18:37:49 INFO  BaseTest:56 - ✅ Test started: testCourseFlow
+2025-05-23 18:37:49 INFO  CourseAutomationTest:26 - Test started: testCourseFlow
+2025-05-23 18:37:59 WARN  LoginPage:33 - Cookie popup not found or already dismissed.
+2025-05-23 18:38:09 ERROR CourseAutomationTest:82 - Test case failed
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Log in')]"}
+  (Session info: chrome=136.0.7103.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.31.0', revision: '4ae8fc9f8a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [178f3e2572105e3bf44ef033e9d3deb5, findElement {using=xpath, value=//a[contains(text(),'Log in')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.113 (76fa3c17824..., userDataDir: C:\Users\ASHWIN~1.SED\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64462}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64462/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 178f3e2572105e3bf44ef033e9d3deb5
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.31.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.31.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.31.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.31.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.31.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.31.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.31.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.31.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.31.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.31.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.31.0.jar:?]
+	at khanAcademyPage.LoginPage.login(LoginPage.java:36) ~[classes/:?]
+	at khanAcademyTest.CourseAutomationTest.testCourseFlow(CourseAutomationTest.java:33) ~[classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-05-23 18:38:10 ERROR BaseTest:65 - Test failed: testCourseFlow
+java.lang.AssertionError: Test failed due to exception: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Log in')]"}
+  (Session info: chrome=136.0.7103.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.31.0', revision: '4ae8fc9f8a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [178f3e2572105e3bf44ef033e9d3deb5, findElement {using=xpath, value=//a[contains(text(),'Log in')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.113 (76fa3c17824..., userDataDir: C:\Users\ASHWIN~1.SED\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64462}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64462/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 178f3e2572105e3bf44ef033e9d3deb5
+	at org.testng.Assert.fail(Assert.java:111) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at khanAcademyTest.CourseAutomationTest.testCourseFlow(CourseAutomationTest.java:83) ~[classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-05-23 18:38:14 INFO  BaseTest:74 - 🔻 Browser closed
+2025-05-23 18:38:15 INFO  BaseTest:81 - 📄 ExtentReport flushed and saved.
+2025-05-23 18:41:59 INFO  BaseTest:33 - ✅ ExtentReport initialized at: test-output\ExtentReport.html
+2025-05-23 18:41:59 INFO  BaseTest:39 - Launching browser: chrome
+2025-05-23 18:45:06 INFO  BaseTest:33 - ✅ ExtentReport initialized at: test-output\ExtentReport.html
+2025-05-23 18:45:06 INFO  BaseTest:39 - Launching browser: chrome
+2025-05-23 18:46:06 INFO  BaseTest:56 - ✅ Test started: testCourseFlow
+2025-05-23 18:46:06 INFO  CourseAutomationTest:26 - Test started: testCourseFlow
+2025-05-23 18:46:08 INFO  LoginPage:31 - Cookie banner closed.
+2025-05-23 18:46:08 INFO  LoginPage:37 - Clicked login link.
+2025-05-23 18:46:13 INFO  LoginPage:40 - Entered username.
+2025-05-23 18:46:14 INFO  LoginPage:43 - Entered password.
+2025-05-23 18:46:14 INFO  LoginPage:46 - Clicked submit to log in.
+2025-05-23 18:46:34 INFO  CourseAutomationTest:37 - Login successful. URL: https://www.khanacademy.org/profile/me/courses
+2025-05-23 18:46:34 INFO  SearchPage:33 - Clicking on search button.
+2025-05-23 18:46:38 INFO  SearchPage:40 - Typing course name: art
+2025-05-23 18:46:45 INFO  SearchPage:48 - Selecting course result at index 3
+2025-05-23 18:46:51 INFO  SearchPage:57 - Attempting to play the course video.
+2025-05-23 18:47:18 INFO  ProgressPage:27 - Opened user menu.
+2025-05-23 18:47:19 INFO  ProgressPage:30 - Clicked learner home link.
+2025-05-23 18:47:25 INFO  ProgressPage:33 - Navigated to Progress page.
+2025-05-23 18:47:28 INFO  CourseAutomationTest:66 - Progress page verified
+2025-05-23 18:47:29 INFO  LogoutPage:26 - Opened profile menu.
+2025-05-23 18:47:32 INFO  LogoutPage:29 - Clicked logout link.
+2025-05-23 18:47:34 INFO  CourseAutomationTest:74 - Logout completed
+2025-05-23 18:47:34 INFO  CourseAutomationTest:86 - Test completed: testCourseFlow
+2025-05-23 18:47:45 INFO  BaseTest:74 - 🔻 Browser closed
+2025-05-23 18:47:46 INFO  BaseTest:81 - 📄 ExtentReport flushed and saved.
+2025-05-23 19:41:22 INFO  BaseTest:34 - ✅ ExtentReport initialized at: test-output\ExtentReport.html
+2025-05-23 19:41:22 INFO  BaseTest:40 - Launching browser: chrome
+2025-05-23 19:41:55 INFO  BaseTest:57 - ✅ Test started: testInvalidLogin
+2025-05-23 19:41:55 INFO  NegativeTestcase:24 - Test started: testInvalidLogin
+2025-05-23 19:41:55 INFO  LoginPage:31 - Cookie banner closed.
+2025-05-23 19:41:55 INFO  LoginPage:37 - Clicked login link.
+2025-05-23 19:41:57 INFO  LoginPage:40 - Entered username.
+2025-05-23 19:41:57 INFO  LoginPage:43 - Entered password.
+2025-05-23 19:41:58 INFO  LoginPage:46 - Clicked submit to log in.
+2025-05-23 19:42:01 INFO  NegativeTestcase:36 - Invalid login test passed, current URL: https://www.khanacademy.org/login
+2025-05-23 19:42:01 INFO  NegativeTestcase:46 - Test completed: testInvalidLogin
+2025-05-23 19:42:06 INFO  BaseTest:75 - 🔻 Browser closed
+2025-05-23 19:42:06 INFO  BaseTest:40 - Launching browser: chrome
+2025-05-23 19:42:28 INFO  BaseTest:57 - ✅ Test started: testSpecialCharacterSearch
+2025-05-23 19:42:28 INFO  NegativeTestcase:51 - Test started: testSpecialCharacterSearch
+2025-05-23 19:42:28 INFO  LoginPage:31 - Cookie banner closed.
+2025-05-23 19:42:28 INFO  LoginPage:37 - Clicked login link.
+2025-05-23 19:42:33 INFO  LoginPage:40 - Entered username.
+2025-05-23 19:42:33 INFO  LoginPage:43 - Entered password.
+2025-05-23 19:42:33 INFO  LoginPage:46 - Clicked submit to log in.
+2025-05-23 19:42:57 ERROR NegativeTestcase:80 - Test case failed
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for url to contain "/courses". Current url: "https://www.khanacademy.org/" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.31.0', revision: '4ae8fc9f8a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.113 (76fa3c17824..., userDataDir: C:\Users\ASHWIN~1.SED\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:7936}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:7936/devtool..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 00e16207c6a8900c18a40fe572c88843
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-support-4.31.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-support-4.31.0.jar:?]
+	at khanAcademyTest.NegativeTestcase.testSpecialCharacterSearch(NegativeTestcase.java:59) ~[classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-05-23 19:42:57 ERROR BaseTest:66 - Test failed: testSpecialCharacterSearch
+java.lang.AssertionError: Test failed due to exception: Expected condition failed: waiting for url to contain "/courses". Current url: "https://www.khanacademy.org/" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.31.0', revision: '4ae8fc9f8a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.113 (76fa3c17824..., userDataDir: C:\Users\ASHWIN~1.SED\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:7936}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:7936/devtool..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 00e16207c6a8900c18a40fe572c88843
+	at org.testng.Assert.fail(Assert.java:111) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at khanAcademyTest.NegativeTestcase.testSpecialCharacterSearch(NegativeTestcase.java:81) ~[classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-05-23 19:43:04 INFO  BaseTest:75 - 🔻 Browser closed
+2025-05-23 19:43:04 INFO  BaseTest:82 - 📄 ExtentReport flushed and saved.
+2025-05-23 19:49:34 INFO  BaseTest:34 - ✅ ExtentReport initialized at: test-output\ExtentReport.html
+2025-05-23 19:49:34 INFO  BaseTest:40 - Launching browser: chrome
+2025-05-23 19:49:48 INFO  BaseTest:57 - ✅ Test started: testCourseFlow
+2025-05-23 19:49:48 INFO  CourseAutomationTest:26 - Test started: testCourseFlow
+2025-05-23 19:49:48 INFO  LoginPage:31 - Cookie banner closed.
+2025-05-23 19:49:49 INFO  LoginPage:37 - Clicked login link.
+2025-05-23 19:49:50 INFO  LoginPage:40 - Entered username.
+2025-05-23 19:49:50 INFO  LoginPage:43 - Entered password.
+2025-05-23 19:49:50 INFO  LoginPage:46 - Clicked submit to log in.
+2025-05-23 19:50:01 INFO  CourseAutomationTest:37 - Login successful. URL: https://www.khanacademy.org/profile/me/courses
+2025-05-23 19:50:01 INFO  SearchPage:33 - Clicking on search button.
+2025-05-23 19:50:05 INFO  SearchPage:40 - Typing course name: art
+2025-05-23 19:50:11 INFO  SearchPage:48 - Selecting course result at index 3
+2025-05-23 19:50:18 INFO  SearchPage:57 - Attempting to play the course video.
+2025-05-23 19:50:42 INFO  ProgressPage:27 - Opened user menu.
+2025-05-23 19:50:42 INFO  ProgressPage:30 - Clicked learner home link.
+2025-05-23 19:50:45 INFO  ProgressPage:33 - Navigated to Progress page.
+2025-05-23 19:50:48 INFO  CourseAutomationTest:66 - Progress page verified
+2025-05-23 19:50:48 INFO  LogoutPage:26 - Opened profile menu.
+2025-05-23 19:50:50 INFO  LogoutPage:29 - Clicked logout link.
+2025-05-23 19:50:52 INFO  CourseAutomationTest:74 - Logout completed
+2025-05-23 19:50:52 INFO  CourseAutomationTest:86 - Test completed: testCourseFlow
+2025-05-23 19:51:01 INFO  BaseTest:75 - 🔻 Browser closed
+2025-05-23 19:51:01 INFO  BaseTest:82 - 📄 ExtentReport flushed and saved.

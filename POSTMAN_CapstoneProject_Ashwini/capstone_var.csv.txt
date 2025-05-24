@@ -1,0 +1,5 @@
+first_name,last_name
+Ashwini,Priya
+Meera,natu
+Preetha,venu
+Joe,John

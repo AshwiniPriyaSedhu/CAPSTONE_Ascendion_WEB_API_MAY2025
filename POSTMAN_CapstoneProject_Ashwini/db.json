@@ -1,0 +1,216 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstname": "Rose",
+      "lastname": "Smith",
+      "email": "rose.smith@example.com"
+    },
+    {
+      "id": "2",
+      "firstname": "John",
+      "lastname": "Doe",
+      "email": "john.doe@example.com"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": "Red Rose",
+      "description": "A beautiful red rose",
+      "price": 10.5,
+      "category": "flowers",
+      "image": "https://example.com/images/red-rose.jpg"
+    },
+    {
+      "id": "2",
+      "title": "T-Shirt",
+      "description": "Plain white cotton T-shirt",
+      "price": 2003,
+      "category": "apparel",
+      "image": "https://example.com/images/white-tshirt.jpg"
+    },
+    {
+      "title": "Pink Shirt",
+      "price": 25.99,
+      "category": "clothing",
+      "id": "62fc"
+    },
+    {
+      "title": "Yellow Shirt",
+      "price": 25.99,
+      "category": "clothing",
+      "id": "3086"
+    },
+    {
+      "id": "f3e8",
+      "title": "Red Shirt",
+      "price": 25.99,
+      "category": "clothing"
+    },
+    {
+      "title": "Yellow Shirt",
+      "price": 25.99,
+      "category": "clothing",
+      "id": "985c"
+    },
+    {
+      "title": "Yellow Shirt",
+      "price": 25.99,
+      "category": "clothing",
+      "id": "3ee4"
+    },
+    {
+      "title": "Yellow Shirt",
+      "price": 25.99,
+      "category": "clothing",
+      "id": "3604"
+    },
+    {
+      "title": "Yellow Shirt",
+      "price": 25.99,
+      "category": "clothing",
+      "id": "13a7"
+    },
+    {
+      "title": "Yellow Shirt",
+      "price": 25.99,
+      "category": "clothing",
+      "id": "2782"
+    },
+    {
+      "title": "Yellow Shirt",
+      "price": 25.99,
+      "category": "clothing",
+      "id": "3a75"
+    },
+    {
+      "title": "Yellow Shirt",
+      "price": 25.99,
+      "category": "clothing",
+      "id": "e16a"
+    },
+    {
+      "title": "Yellow Shirt",
+      "price": 25.99,
+      "category": "clothing",
+      "id": "c89d"
+    },
+    {
+      "title": "Yellow Shirt",
+      "price": 25.99,
+      "category": "clothing",
+      "id": "c4b1"
+    },
+    {
+      "title": "Yellow Shirt",
+      "price": 25.99,
+      "category": "clothing",
+      "id": "c1f7"
+    },
+    {
+      "title": "Yellow Shirt",
+      "price": 25.99,
+      "category": "clothing",
+      "id": "7390"
+    },
+    {
+      "title": "Yellow Shirt",
+      "price": 25.99,
+      "category": "clothing",
+      "id": "2606"
+    },
+    {
+      "title": "Yellow Shirt",
+      "price": 25.99,
+      "category": "clothing",
+      "id": "4d3c"
+    },
+    {
+      "title": "Yellow Shirt",
+      "price": 25.99,
+      "category": "clothing",
+      "id": "b565"
+    },
+    {
+      "title": "Yellow Shirt",
+      "price": 25.99,
+      "category": "clothing",
+      "id": "4ae6"
+    },
+    {
+      "title": "Yellow Shirt",
+      "price": 25.99,
+      "category": "clothing",
+      "id": "ab55"
+    },
+    {
+      "title": "Yellow Shirt",
+      "price": 25.99,
+      "category": "clothing",
+      "id": "ad96"
+    },
+    {
+      "title": "Yellow Shirt",
+      "price": 25.99,
+      "category": "clothing",
+      "id": "e449"
+    },
+    {
+      "title": "Yellow Shirt",
+      "price": 25.99,
+      "category": "clothing",
+      "id": "6278"
+    },
+    {
+      "title": "Yellow Shirt",
+      "price": 25.99,
+      "category": "clothing",
+      "id": "e966"
+    },
+    {
+      "title": "Yellow Shirt",
+      "price": 25.99,
+      "category": "clothing",
+      "id": "47e0"
+    },
+    {
+      "title": "Yellow Shirt",
+      "price": 25.99,
+      "category": "clothing",
+      "id": "ef00"
+    },
+    {
+      "title": "Yellow Shirt",
+      "price": 25.99,
+      "category": "clothing",
+      "id": "13d1"
+    },
+    {
+      "title": "Yellow Shirt",
+      "price": 25.99,
+      "category": "clothing",
+      "id": "50b4"
+    },
+    {
+      "title": "Yellow Shirt",
+      "price": 25.99,
+      "category": "clothing",
+      "id": "7f21"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "1",
+      "firstname": "Rose",
+      "lastname": "Smith",
+      "totalprice": 150,
+      "depositpaid": true,
+      "bookingdates": {
+        "checkin": "2025-06-01",
+        "checkout": "2025-06-10"
+      },
+      "additionalneeds": "Breakfast"
+    }
+  ]
+}

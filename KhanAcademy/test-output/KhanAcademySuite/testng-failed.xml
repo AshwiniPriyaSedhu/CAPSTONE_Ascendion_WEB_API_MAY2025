@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [KhanAcademySuite]">
+  <listeners>
+    <listener class-name="listeners.TestListener"/>
+  </listeners>
+  <test thread-count="5" name="Course Test(failed)">
+    <classes>
+      <class name="khanAcademyTest.CourseAutomationTest">
+        <methods>
+          <include name="setUpReport"/>
+          <include name="tearDownReport"/>
+          <include name="testCourseFlow"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- khanAcademyTest.CourseAutomationTest -->
+    </classes>
+  </test> <!-- Course Test(failed) -->
+</suite> <!-- Failed suite [KhanAcademySuite] -->
