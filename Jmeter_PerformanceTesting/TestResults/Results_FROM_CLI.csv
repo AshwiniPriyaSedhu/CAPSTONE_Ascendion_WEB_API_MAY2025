@@ -1,0 +1,71 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1748084167756,2154,Login,200,OK,Thread Group 1-1,text,true,,149476,515,10,10,https://www.khanacademy.org/,1561,0,928
+1748084167889,2035,Login,200,OK,Thread Group 1-3,text,true,,149476,515,10,10,https://www.khanacademy.org/,1458,0,753
+1748084167986,1938,Login,200,OK,Thread Group 1-4,text,true,,149476,515,10,10,https://www.khanacademy.org/,1346,0,695
+1748084168386,1541,Login,200,OK,Thread Group 1-8,text,true,,149476,515,10,10,https://www.khanacademy.org/,978,0,310
+1748084168290,1910,Login,200,OK,Thread Group 1-7,text,true,,149475,515,10,10,https://www.khanacademy.org/,1380,0,426
+1748084168485,1714,Login,200,OK,Thread Group 1-9,text,true,,149477,515,10,10,https://www.khanacademy.org/,1165,0,271
+1748084168186,2023,Login,200,OK,Thread Group 1-6,text,true,,149476,515,10,10,https://www.khanacademy.org/,1483,0,522
+1748084168087,2125,Login,200,OK,Thread Group 1-5,text,true,,149475,515,10,10,https://www.khanacademy.org/,1600,0,626
+1748084168588,1757,Login,200,OK,Thread Group 1-10,text,true,,149476,515,10,10,https://www.khanacademy.org/,1438,0,369
+1748084167785,2629,Login,200,OK,Thread Group 1-2,text,true,,149477,515,10,10,https://www.khanacademy.org/,2370,0,926
+1748084208721,764,Search Course,200,OK,Thread Group 1-4,text,true,,149250,828,10,10,https://www.khanacademy.org/search?referer=%2Fprofile%2Fme%2Fcourses&page_search_query=machine+learning,573,0,0
+1748084208725,843,Search Course,200,OK,Thread Group 1-8,text,true,,149250,828,10,10,https://www.khanacademy.org/search?referer=%2Fprofile%2Fme%2Fcourses&page_search_query=machine+learning,667,0,0
+1748084208716,951,Search Course,200,OK,Thread Group 1-1,text,true,,149250,828,10,10,https://www.khanacademy.org/search?referer=%2Fprofile%2Fme%2Fcourses&page_search_query=machine+learning,635,0,0
+1748084208998,923,Search Course,200,OK,Thread Group 1-9,text,true,,149250,829,10,10,https://www.khanacademy.org/search?referer=%2Fprofile%2Fme%2Fcourses&page_search_query=machine+learning,633,0,0
+1748084209009,913,Search Course,200,OK,Thread Group 1-5,text,true,,149250,827,10,10,https://www.khanacademy.org/search?referer=%2Fprofile%2Fme%2Fcourses&page_search_query=machine+learning,583,0,0
+1748084208721,1531,Search Course,200,OK,Thread Group 1-3,text,true,,149250,828,10,10,https://www.khanacademy.org/search?referer=%2Fprofile%2Fme%2Fcourses&page_search_query=machine+learning,1252,0,0
+1748084209007,1311,Search Course,200,OK,Thread Group 1-6,text,true,,149250,828,10,10,https://www.khanacademy.org/search?referer=%2Fprofile%2Fme%2Fcourses&page_search_query=machine+learning,968,0,0
+1748084209142,1215,Search Course,200,OK,Thread Group 1-10,text,true,,149250,828,10,10,https://www.khanacademy.org/search?referer=%2Fprofile%2Fme%2Fcourses&page_search_query=machine+learning,847,0,0
+1748084209213,1187,Search Course,200,OK,Thread Group 1-2,text,true,,149250,829,10,10,https://www.khanacademy.org/search?referer=%2Fprofile%2Fme%2Fcourses&page_search_query=machine+learning,822,0,0
+1748084208998,1405,Search Course,200,OK,Thread Group 1-7,text,true,,149250,827,10,10,https://www.khanacademy.org/search?referer=%2Fprofile%2Fme%2Fcourses&page_search_query=machine+learning,1037,0,0
+1748084221796,594,Select Video,200,OK,Thread Group 1-4,text,true,,149431,896,10,10,https://www.khanacademy.org/college-careers-more/ai-for-education/x68ea37461197a514:ai-for-education-unit-1/x68ea37461197a514:ai-how-ai-works/v/ai-what-is-machine-learning,535,0,0
+1748084221878,869,Select Video,200,OK,Thread Group 1-8,text,true,,149431,896,10,10,https://www.khanacademy.org/college-careers-more/ai-for-education/x68ea37461197a514:ai-for-education-unit-1/x68ea37461197a514:ai-how-ai-works/v/ai-what-is-machine-learning,561,0,0
+1748084221978,792,Select Video,200,OK,Thread Group 1-1,text,true,,149431,896,10,10,https://www.khanacademy.org/college-careers-more/ai-for-education/x68ea37461197a514:ai-for-education-unit-1/x68ea37461197a514:ai-how-ai-works/v/ai-what-is-machine-learning,531,0,0
+1748084222234,821,Select Video,200,OK,Thread Group 1-9,text,true,,149431,897,10,10,https://www.khanacademy.org/college-careers-more/ai-for-education/x68ea37461197a514:ai-for-education-unit-1/x68ea37461197a514:ai-how-ai-works/v/ai-what-is-machine-learning,648,0,0
+1748084222236,843,Select Video,200,OK,Thread Group 1-5,text,true,,149431,895,10,10,https://www.khanacademy.org/college-careers-more/ai-for-education/x68ea37461197a514:ai-for-education-unit-1/x68ea37461197a514:ai-how-ai-works/v/ai-what-is-machine-learning,721,0,0
+1748084222561,1169,Select Video,200,OK,Thread Group 1-3,text,true,,149431,896,10,10,https://www.khanacademy.org/college-careers-more/ai-for-education/x68ea37461197a514:ai-for-education-unit-1/x68ea37461197a514:ai-how-ai-works/v/ai-what-is-machine-learning,918,0,0
+1748084222629,1560,Select Video,200,OK,Thread Group 1-6,text,true,,149431,896,10,10,https://www.khanacademy.org/college-careers-more/ai-for-education/x68ea37461197a514:ai-for-education-unit-1/x68ea37461197a514:ai-how-ai-works/v/ai-what-is-machine-learning,1022,0,0
+1748084222666,1642,Select Video,200,OK,Thread Group 1-10,text,true,,149431,896,10,10,https://www.khanacademy.org/college-careers-more/ai-for-education/x68ea37461197a514:ai-for-education-unit-1/x68ea37461197a514:ai-how-ai-works/v/ai-what-is-machine-learning,1094,0,0
+1748084222713,1663,Select Video,200,OK,Thread Group 1-7,text,true,,149431,895,10,10,https://www.khanacademy.org/college-careers-more/ai-for-education/x68ea37461197a514:ai-for-education-unit-1/x68ea37461197a514:ai-how-ai-works/v/ai-what-is-machine-learning,1362,0,0
+1748084222749,2757,Play Video,200,OK,Thread Group 1-8,text,true,,112883,715,10,10,https://www.youtube-nocookie.com/embed/KHbwOetbmbs/?cc_lang_pref=en&controls=1&iv_load_policy=3&hl=en&modestbranding=1&html5=1&origin=https%3A%2F%2Fwww.khanacademy.org&start=0&fs=1&rel=0&showinfo=0&cc_load_policy=0&enablejsapi=1,2168,0,1321
+1748084222394,3205,Play Video,200,OK,Thread Group 1-4,text,true,,113209,715,10,10,https://www.youtube-nocookie.com/embed/KHbwOetbmbs/?cc_lang_pref=en&controls=1&iv_load_policy=3&hl=en&modestbranding=1&html5=1&origin=https%3A%2F%2Fwww.khanacademy.org&start=0&fs=1&rel=0&showinfo=0&cc_load_policy=0&enablejsapi=1,2575,0,1663
+1748084222772,2907,Play Video,200,OK,Thread Group 1-1,text,true,,112806,715,10,10,https://www.youtube-nocookie.com/embed/KHbwOetbmbs/?cc_lang_pref=en&controls=1&iv_load_policy=3&hl=en&modestbranding=1&html5=1&origin=https%3A%2F%2Fwww.khanacademy.org&start=0&fs=1&rel=0&showinfo=0&cc_load_policy=0&enablejsapi=1,2245,0,1299
+1748084223080,2756,Play Video,200,OK,Thread Group 1-5,text,true,,113044,715,10,10,https://www.youtube-nocookie.com/embed/KHbwOetbmbs/?cc_lang_pref=en&controls=1&iv_load_policy=3&hl=en&modestbranding=1&html5=1&origin=https%3A%2F%2Fwww.khanacademy.org&start=0&fs=1&rel=0&showinfo=0&cc_load_policy=0&enablejsapi=1,2152,0,1249
+1748084223056,2866,Play Video,200,OK,Thread Group 1-9,text,true,,114641,715,10,10,https://www.youtube-nocookie.com/embed/KHbwOetbmbs/?cc_lang_pref=en&controls=1&iv_load_policy=3&hl=en&modestbranding=1&html5=1&origin=https%3A%2F%2Fwww.khanacademy.org&start=0&fs=1&rel=0&showinfo=0&cc_load_policy=0&enablejsapi=1,2297,0,1274
+1748084223732,2909,Play Video,200,OK,Thread Group 1-3,text,true,,113171,715,10,10,https://www.youtube-nocookie.com/embed/KHbwOetbmbs/?cc_lang_pref=en&controls=1&iv_load_policy=3&hl=en&modestbranding=1&html5=1&origin=https%3A%2F%2Fwww.khanacademy.org&start=0&fs=1&rel=0&showinfo=0&cc_load_policy=0&enablejsapi=1,2347,0,1705
+1748084222710,3940,Select Video,200,OK,Thread Group 1-2,text,true,,149431,897,10,10,https://www.khanacademy.org/college-careers-more/ai-for-education/x68ea37461197a514:ai-for-education-unit-1/x68ea37461197a514:ai-how-ai-works/v/ai-what-is-machine-learning,2409,0,0
+1748084224191,2527,Play Video,200,OK,Thread Group 1-6,text,true,,113419,715,10,10,https://www.youtube-nocookie.com/embed/KHbwOetbmbs/?cc_lang_pref=en&controls=1&iv_load_policy=3&hl=en&modestbranding=1&html5=1&origin=https%3A%2F%2Fwww.khanacademy.org&start=0&fs=1&rel=0&showinfo=0&cc_load_policy=0&enablejsapi=1,1976,0,1371
+1748084224377,2377,Play Video,200,OK,Thread Group 1-7,text,true,,114477,715,10,10,https://www.youtube-nocookie.com/embed/KHbwOetbmbs/?cc_lang_pref=en&controls=1&iv_load_policy=3&hl=en&modestbranding=1&html5=1&origin=https%3A%2F%2Fwww.khanacademy.org&start=0&fs=1&rel=0&showinfo=0&cc_load_policy=0&enablejsapi=1,1822,0,1330
+1748084224309,2495,Play Video,200,OK,Thread Group 1-10,text,true,,113051,715,10,10,https://www.youtube-nocookie.com/embed/KHbwOetbmbs/?cc_lang_pref=en&controls=1&iv_load_policy=3&hl=en&modestbranding=1&html5=1&origin=https%3A%2F%2Fwww.khanacademy.org&start=0&fs=1&rel=0&showinfo=0&cc_load_policy=0&enablejsapi=1,1998,0,1398
+1748084226651,796,Play Video,200,OK,Thread Group 1-2,text,true,,112919,715,10,10,https://www.youtube-nocookie.com/embed/KHbwOetbmbs/?cc_lang_pref=en&controls=1&iv_load_policy=3&hl=en&modestbranding=1&html5=1&origin=https%3A%2F%2Fwww.khanacademy.org&start=0&fs=1&rel=0&showinfo=0&cc_load_policy=0&enablejsapi=1,626,0,379
+1748084259857,1468,Learner Progress,200,OK,Thread Group 1-4,text,true,,149212,787,10,10,https://www.khanacademy.org/logout?continue=%2Fprofile%2Fme%2F,1050,0,379
+1748084259764,1668,Learner Progress,200,OK,Thread Group 1-8,text,true,,149212,787,10,10,https://www.khanacademy.org/logout?continue=%2Fprofile%2Fme%2F,1203,0,384
+1748084259937,1540,Learner Progress,200,OK,Thread Group 1-1,text,true,,149212,787,10,10,https://www.khanacademy.org/logout?continue=%2Fprofile%2Fme%2F,1287,0,299
+1748084260180,1387,Learner Progress,200,OK,Thread Group 1-9,text,true,,149212,788,10,10,https://www.khanacademy.org/logout?continue=%2Fprofile%2Fme%2F,1136,0,567
+1748084260095,1501,Learner Progress,200,OK,Thread Group 1-5,text,true,,149212,786,10,10,https://www.khanacademy.org/logout?continue=%2Fprofile%2Fme%2F,1232,0,652
+1748084260900,1505,Learner Progress,200,OK,Thread Group 1-3,text,true,,149212,787,10,10,https://www.khanacademy.org/logout?continue=%2Fprofile%2Fme%2F,1257,0,648
+1748084260976,1543,Learner Progress,200,OK,Thread Group 1-6,text,true,,149212,787,10,10,https://www.khanacademy.org/logout?continue=%2Fprofile%2Fme%2F,1181,0,581
+1748084261012,1559,Learner Progress,200,OK,Thread Group 1-7,text,true,,149212,786,10,10,https://www.khanacademy.org/logout?continue=%2Fprofile%2Fme%2F,1178,0,545
+1748084261062,1653,Learner Progress,200,OK,Thread Group 1-10,text,true,,149212,787,10,10,https://www.khanacademy.org/logout?continue=%2Fprofile%2Fme%2F,1152,0,500
+1748084261707,1172,Learner Progress,200,OK,Thread Group 1-2,text,true,,149212,788,10,10,https://www.khanacademy.org/logout?continue=%2Fprofile%2Fme%2F,1004,0,282
+1748084264011,397,Logout,304,Not Modified,Thread Group 1-4,,true,,615,856,10,10,https://www.khanacademy.org/,0,0,0
+1748084167985,8366,Test,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-4,,true,,711193,4597,10,10,null,6079,88056,2737
+1748084264118,392,Logout,304,Not Modified,Thread Group 1-8,,true,,615,856,9,9,https://www.khanacademy.org/,0,0,0
+1748084168385,8070,Test,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-8,,true,,710867,4597,9,9,null,5577,88055,2015
+1748084264162,425,Logout,304,Not Modified,Thread Group 1-1,,true,,615,856,8,8,https://www.khanacademy.org/,0,0,0
+1748084167687,8769,Test,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,710790,4597,8,8,null,6259,88131,2526
+1748084264252,378,Logout,304,Not Modified,Thread Group 1-9,,true,,615,857,7,7,https://www.khanacademy.org/,0,0,0
+1748084168485,8089,Test,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-9,,true,,712626,4601,7,7,null,5879,88056,2112
+1748084264281,407,Logout,304,Not Modified,Thread Group 1-5,,true,,615,855,6,6,https://www.khanacademy.org/,0,0,0
+1748084168086,8545,Test,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-5,,true,,711027,4593,6,6,null,6288,88056,2527
+1748084265090,505,Logout,304,Not Modified,Thread Group 1-3,,true,,615,856,5,5,https://www.khanacademy.org/,0,0,0
+1748084167886,9654,Test,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-3,,true,,711155,4597,5,5,null,7232,88055,3106
+1748084265205,403,Logout,304,Not Modified,Thread Group 1-6,,true,,615,856,4,4,https://www.khanacademy.org/,0,0,0
+1748084168184,9367,Test,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-6,,true,,711403,4597,4,4,null,6630,88057,2474
+1748084265257,438,Logout,304,Not Modified,Thread Group 1-7,,true,,615,855,3,3,https://www.khanacademy.org/,0,0,0
+1748084168287,9352,Test,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-7,,true,,712460,4593,3,3,null,6779,88055,2301
+1748084265400,508,Logout,304,Not Modified,Thread Group 1-10,,true,,615,856,2,2,https://www.khanacademy.org/,0,0,0
+1748084168586,9270,Test,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-10,,true,,711035,4597,2,2,null,6529,88052,2267
+1748084265563,516,Logout,304,Not Modified,Thread Group 1-2,,true,,615,857,1,1,https://www.khanacademy.org/,0,0,0
+1748084167784,10240,Test,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-2,,true,,710904,4601,1,1,null,7231,88055,1587
